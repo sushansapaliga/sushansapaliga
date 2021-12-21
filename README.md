@@ -1,6 +1,6 @@
 ### Hello There 🤖
 
-Hi, I am Sushan Sapaliga. Im System Engineer at Infosys.
+Hi, I am Sushan Sapaliga.
 
 Key Skills: Python, Java, Firebase, JavaScript.
 
